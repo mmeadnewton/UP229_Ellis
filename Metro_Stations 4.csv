@@ -1,0 +1,154 @@
+X,Y,OBJECTID,source,ext_id,cat1,cat2,cat3,org_name,Name,addrln1,addrln2,city,state,hours,phones,email,url,info1,info2,post_id,description,zip,link,use_type,latitude,longitude,date_updated,dis_status,POINT_X,POINT_Y
+-118.236440476146,34.0560549566625,56393,Metropolitan Transportation Authority (MTA),1054069001,Transportation,Metro Stations,,LA County,Union Station,800 N. Alameda St.,,Los Angeles,CA,"Monday through Thursday, 9:00a to 7:00pm; Friday, 9:00am to 5:30pm; first and fourth Saturday of the month, 9:00am to 3:00pm.",(800) USA-RAIL / Amtrak Service/Intake (800) 872-7245,,http://www.metrolinktrains.com/stations/detail.php?id=131,,,58336,"Union Station is a major transportation hub in the County of Los Angeles.  It includes <a href=""http://www.amtrak.com/servlet/ContentServer?pagename=am/am2Station/Station_Page&amp;code=LAX"" target=""_blank"">Amtrak</a>, <a href=""http://www.metrolinktrains.com/stations/detail.php?id=131"" target=""_blank"">Metrolink</a>, and <a href=""http://www.metro.net/"" target=""_blank"">Metro Red Line and Gold Line</a> stops.
+
+There are 1,162 parking spots at the station, nearby Paid Parking (Independent)<em> </em>
+
+<em>Union Station - </em><em>8 Bike Rack Spaces
+Gateway</em> <em>- 16 Bike Rack Spaces/32 Bike Lockers</em>",90012,http://egis3.lacounty.gov/lms/?p=58336,publish,34.05605499,-118.23644042,2013/06/04 14:27:31+00,,6490052.98269998,1842864.11310473
+-118.243240056089,33.9427019668388,61143,Metropolitan Transportation Authority (MTA),80000013,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),103rd Street Metro Station,,,Los Angeles,CA,,,,http://www.metro.net/around/rail/blue-line/,,,63016,Blue Line,,http://egis3.lacounty.gov/lms/?p=63016,publish,33.942702,-118.24324,2012/03/22 17:12:48+00,,6487893.58511588,1801617.66180514
+-118.243310056537,33.9743459670885,61145,Metropolitan Transportation Authority (MTA),80000015,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Florence Metro Station,,,Los Angeles,CA,,,,http://www.metro.net/around/rail/blue-line/,,,63018,Blue Line,,http://egis3.lacounty.gov/lms/?p=63018,publish,33.974346,-118.24331,2012/03/22 17:13:03+00,,6487900.22814722,1813133.61383881
+-118.243195056106,33.9876039666571,61146,Metropolitan Transportation Authority (MTA),80000016,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Slauson Metro Station,,,Los Angeles,CA,,,,http://www.metro.net/around/rail/blue-line/,,,63019,Blue Line,,http://egis3.lacounty.gov/lms/?p=63019,publish,33.987604,-118.243195,2012/03/22 17:13:11+00,,6487946.76873656,1817958.37945172
+-118.243138056001,34.0031939666027,61147,Metropolitan Transportation Authority (MTA),80000017,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Vernon Metro Station,,,Los Angeles,CA,,,,http://www.metro.net/around/rail/blue-line/,,,63020,Blue Line,,http://egis3.lacounty.gov/lms/?p=63020,publish,34.003194,-118.243138,2012/03/22 17:13:19+00,,6487977.77129921,1823631.84349848
+-118.242825056595,34.0204059670753,61148,Metropolitan Transportation Authority (MTA),80000018,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Washington Metro Station,,,Los Angeles,CA,,,,http://www.metro.net/around/rail/blue-line/,,,63021,Blue Line,,http://egis3.lacounty.gov/lms/?p=63021,publish,34.020406,-118.242825,2012/03/22 17:13:25+00,,6488087.7694388,1829895.39133881
+-118.256067056302,34.027080967076,61149,Metropolitan Transportation Authority (MTA),80000019,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),San Pedro Metro Station,,,Los Angeles,CA,,,,http://www.metro.net/around/rail/blue-line/,,,63022,Blue Line,,http://egis3.lacounty.gov/lms/?p=63022,publish,34.027081,-118.256067,2012/03/22 17:13:32+00,,6484081.28106073,1832334.50719547
+-118.268996056153,34.0330169665499,61150,Metropolitan Transportation Authority (MTA),80000020,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Grand Metro Station,,,Los Angeles,CA,,,,http://www.metro.net/around/rail/blue-line/,,,63023,Blue Line,,http://egis3.lacounty.gov/lms/?p=63023,publish,34.033017,-118.268996,2012/03/22 17:13:40+00,,6480169.54643014,1834504.9592194
+-118.266455056778,34.0404219664994,61151,Metropolitan Transportation Authority (MTA),80000021,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Pico Metro Station,,,Los Angeles,CA,,,,http://www.metro.net/around/rail/blue-line/,,,63024,Blue Line <em>and Expo Line (future)</em>,,http://egis3.lacounty.gov/lms/?p=63024,publish,34.040422,-118.266455,2012/03/22 17:14:24+00,,6480946.56357689,1837197.72483122
+-118.258738056274,34.0487059668127,61152,Metropolitan Transportation Authority (MTA),80000022,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),7th Street / Metro Center Metro Station,660 S Figueroa St,,Los Angeles,CA,,,,http://www.metro.net/around/rail/red-line/,,,63025,Purple/Red Line/Blue Line/<em>Expo Line (future)</em>,90017,http://egis3.lacounty.gov/lms/?p=63025,publish,34.048706,-118.258738,2012/03/28 17:27:45+00,,6483292.21899055,1840206.31723922
+-118.246734056033,34.054438967003,61153,Metropolitan Transportation Authority (MTA),80000029,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Civic Center Metro Station,101 S Hill St,,Los Angeles,CA,,,,http://www.metro.net/around/rail/red-line/,,,63027,"<strong>Purple / Red Line</strong>
+
+Nearby Paid Parking (Independent)<em>
+10 Bike Rack Spaces
+10 Bike Lockers</em>",90013,http://egis3.lacounty.gov/lms/?p=63027,publish,34.054439,-118.246734,2012/03/22 17:01:11+00,,6486933.63985731,1842283.5184654
+-118.251907056857,34.0488569672307,61154,Metropolitan Transportation Authority (MTA),80000030,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Pershing Square Metro Station,500 S Hill St,,Los Angeles,CA,,,,http://www.metro.net/around/rail/red-line/,,,63028,"<strong>Purple / Red Line</strong>
+
+Nearby Paid Parking (Independent)<em>
+4 Bike Rack Spaces</em>",90013,http://egis3.lacounty.gov/lms/?p=63028,publish,34.048857,-118.251907,2012/03/22 17:00:40+00,,6485361.63020605,1840256.01300597
+-118.276328056079,34.0572299673155,61155,Metropolitan Transportation Authority (MTA),80000032,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Westlake / McArthur Park Metro Station,660 S Alvarado St,,Los Angeles,CA,,,,http://www.metro.net/around/rail/red-line/,,,63030,"<strong>Purple / Red Line</strong>
+
+<em>18 Bike Rack Spaces
+Kiss &amp; Ride Drop-Off</em>",90057,http://egis3.lacounty.gov/lms/?p=63030,publish,34.05723,-118.276328,2012/03/22 16:59:44+00,,6477972.31558838,1843322.53672856
+-118.291005056454,34.0622899668534,61156,Metropolitan Transportation Authority (MTA),80000033,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Wilshire / Vermont Metro Station,3191 Wilshire Blvd,,Los Angeles,CA,,,,http://www.metro.net/around/rail/red-line/,,,63031,"<strong>Purple / Red Line</strong>
+
+Nearby Paid Parking (Independent)<em>
+8 Bike Rack Spaces
+16 Bike Lockers</em>",90005,http://egis3.lacounty.gov/lms/?p=63031,publish,34.06229,-118.291005,2012/03/22 16:58:31+00,,6473532.08759221,1845176.50611773
+-118.300211055919,34.0617529666423,61157,Metropolitan Transportation Authority (MTA),80000034,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Wilshire / Normandie Metro Station,,,Los Angeles,CA,,,,,,,63032,Purple Line,,http://egis3.lacounty.gov/lms/?p=63032,publish,34.061753,-118.300211,2011/05/03 18:53:23+00,,6470743.24179196,1844989.28208272
+-118.308968056501,34.0616149667584,61158,Metropolitan Transportation Authority (MTA),80000035,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Wilshire / Western Metro Station,,,Los Angeles,CA,,,,,,,63033,Purple Line,,http://egis3.lacounty.gov/lms/?p=63033,publish,34.061615,-118.308968,2011/05/03 18:53:23+00,,6468090.79926223,1844947.09844007
+-118.291682055824,34.0761569667417,61159,Metropolitan Transportation Authority (MTA),80000036,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Vermont / Beverly Metro Station,301 N Vermont Ave,,Los Angeles,CA,,,,http://www.metro.net/around/rail/red-line/,,,63034,"<strong>Red Line</strong>
+
+<em>14 Bike Rack Spaces</em>",90004,http://egis3.lacounty.gov/lms/?p=63034,publish,34.076157,-118.291682,2012/03/22 16:58:01+00,,6473341.68541397,1850223.54622048
+-118.291740056615,34.0909789671628,61160,Metropolitan Transportation Authority (MTA),80000037,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Vermont / Santa Monica Metro Station,1015 N Vermont Av,,Los Angeles,CA,,,,http://www.metro.net/around/rail/red-line/,,,63035,"<strong>Red Line</strong>
+
+<em>18 Bike Rack Spaces
+4 Bike Lockers</em>",90029,http://egis3.lacounty.gov/lms/?p=63035,publish,34.090979,-118.29174,2012/03/22 16:57:31+00,,6473339.77662514,1855617.58136414
+-118.291759056441,34.098201966384,61161,Metropolitan Transportation Authority (MTA),80000038,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Vermont / Sunset Metro Station,1500 N Vermont Ave,,Los Angeles,CA,,,,http://www.metro.net/around/rail/red-line/,,,63036,"<strong>Red Line</strong>
+
+<em>10 Bike Rack Spaces
+4 Bike Lockers</em>",90027,http://egis3.lacounty.gov/lms/?p=63036,publish,34.098202,-118.291759,2012/03/22 16:56:59+00,,6473341.65358989,1858246.17223556
+-118.30916805644,34.1017359664328,61162,Metropolitan Transportation Authority (MTA),80000039,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Hollywood / Western Metro Station,5450 Hollywood Blvd,,Los Angeles,CA,,,,http://www.metro.net/around/rail/red-line/,,,63037,"<strong>Red Line</strong>
+
+<em>36 Bike Rack Spaces
+2 Bike Lockers</em>",90028,http://egis3.lacounty.gov/lms/?p=63037,publish,34.101736,-118.309168,2012/03/22 16:56:26+00,,6468075.13197072,1859548.00919881
+-118.326860055928,34.1016299669363,61163,Metropolitan Transportation Authority (MTA),80000040,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Hollywood / Vine Metro Station,6250 Hollywood Blvd,,Los Angeles,CA,,,,http://www.metro.net/around/rail/red-line/,,,63038,"<strong>Red Line</strong>
+
+Nearby Paid Parking (Independent)<em>
+26 Bike Rack Spaces (Future Bike Room)</em>",90038,http://egis3.lacounty.gov/lms/?p=63038,publish,34.10163,-118.32686,2012/03/22 16:55:49+00,,6462719.08198731,1859526.37899272
+-118.338563056084,34.1015649669424,61164,Metropolitan Transportation Authority (MTA),80000041,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Hollywood / Highland Metro Station,Hollywood Blvd & Highland Ave,,Los Angeles,CA,,,,http://www.metro.net/around/rail/red-line/,,,63039,"<strong>Red Line</strong>
+
+Nearby Paid Parking (Independent)",90028,http://egis3.lacounty.gov/lms/?p=63039,publish,34.101565,-118.338563,2012/03/22 16:55:05+00,,6459176.13336456,1859514.45119506
+-118.362535056484,34.1393679668976,61165,Metropolitan Transportation Authority (MTA),80000042,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Universal City Metro Station,Lankershim Blvd & Universal Terrace Pkwy,,Los Angeles,CA,,,,http://www.metro.net/around/rail/red-line/,,,63040,"<strong>Red Line</strong>
+
+<em><em>Free On-site Parking – 779 Spaces
+Paid Reserved On-site Parking – 125 Spaces</em><em>
+16 Bike Rack Spaces
+30 Bike Lockers
+Kiss &amp; Ride Drop-Off</em></em>",91608,http://egis3.lacounty.gov/lms/?p=63040,publish,34.139368,-118.362535,2012/03/22 16:54:10+00,,6451968.66549605,1873296.88196348
+-118.265175056491,33.927594966906,61171,Metropolitan Transportation Authority (MTA),80000058,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Avalon Metro Station,,,Los Angeles,,,,,,,,63046,Green Line,,http://egis3.lacounty.gov/lms/?p=63046,publish,33.927595,-118.265175,2011/05/03 18:53:23+00,,6481226.02561639,1796136.7328064
+-118.281830055818,33.9287769666626,61172,Metropolitan Transportation Authority (MTA),80000059,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Harbor Freeway Metro Station,,,Los Angeles,,,,,,,,63047,Green Line,,http://egis3.lacounty.gov/lms/?p=63047,publish,33.928777,-118.28183,2011/05/03 18:53:23+00,,6476174.73256938,1796580.63480572
+-118.29194105602,33.9286179670841,61173,Metropolitan Transportation Authority (MTA),80000060,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Vermont Metro Station,,,Los Angeles,,,,,,,,63048,Green Line,,http://egis3.lacounty.gov/lms/?p=63048,publish,33.928618,-118.291941,2011/05/03 18:53:23+00,,6473107.31252314,1796531.52565198
+-118.377589056112,33.9299199674505,61176,Metropolitan Transportation Authority (MTA),80000063,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Aviation Metro Station (LAX Shuttle Connection),,,Los Angeles,,,,,,,,63051,Green Line,,http://egis3.lacounty.gov/lms/?p=63051,publish,33.92992,-118.377589,2011/05/03 18:53:23+00,,6447127.08298764,1797091.87984623
+-118.23561805665,34.0647989670792,61181,Metropolitan Transportation Authority (MTA),80000079,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Chinatown Metro Station,,,Los Angeles,,,,,,,,63057,Gold Line,,http://egis3.lacounty.gov/lms/?p=63057,publish,34.064799,-118.235618,2011/05/03 18:53:23+00,,6490309.5504283,1846045.63364457
+-118.219958056637,34.081263967139,61182,Metropolitan Transportation Authority (MTA),80000080,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Lincoln Heights / Cypress Park Metro Station,,,Los Angeles,,,,,,,,63058,Gold Line,,http://egis3.lacounty.gov/lms/?p=63058,publish,34.081264,-118.219958,2011/05/03 18:53:23+00,,6495065.54222864,1852026.79950373
+-118.21263105644,34.0877469670134,61183,Metropolitan Transportation Authority (MTA),80000081,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Heritage Square / Arroyo Metro Station,,,Los Angeles,,,,,,,,63059,Gold Line,,http://egis3.lacounty.gov/lms/?p=63059,publish,34.087747,-118.212631,2011/05/03 18:53:23+00,,6497289.19526164,1854381.30660573
+-118.205571056476,34.0990669668301,61184,Metropolitan Transportation Authority (MTA),80000082,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Southwest Museum Metro Station,,,Los Angeles,,,,,,,,63060,Gold Line,,http://egis3.lacounty.gov/lms/?p=63060,publish,34.099067,-118.205571,2011/05/03 18:53:23+00,,6499435.26774114,1858496.41222064
+-118.193979057022,34.1105009670416,61185,Metropolitan Transportation Authority (MTA),80000083,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Highland Park Metro Station,,,Los Angeles,,,,,,,,63061,Gold Line,,http://egis3.lacounty.gov/lms/?p=63061,publish,34.110501,-118.193979,2011/05/03 18:53:23+00,,6502952.68295039,1862650.47609098
+-118.238058056043,34.0489809673566,61193,Metropolitan Transportation Authority (MTA),80000091,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Little Tokyo / Arts District Metro Station,,,Los Angeles,,,,,,,,63069,Gold Line,,http://egis3.lacounty.gov/lms/?p=63069,publish,34.048981,-118.238058,2011/05/03 18:53:23+00,,6489556.92496505,1840290.91451098
+-118.225196056863,34.047594966969,61194,Metropolitan Transportation Authority (MTA),80000092,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Pico / Aliso Metro Station,,,Los Angeles,,,,,,,,63070,Gold Line,,http://egis3.lacounty.gov/lms/?p=63070,publish,34.047595,-118.225196,2011/05/03 18:53:23+00,,6493451.99230614,1839777.54513089
+-118.219818056928,34.0472799671111,61195,Metropolitan Transportation Authority (MTA),80000093,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Mariachi Plaza / Boyle Heights Metro Station,,,Los Angeles,,,,,,,,63071,Gold Line,,http://egis3.lacounty.gov/lms/?p=63071,publish,34.04728,-118.219818,2011/05/03 18:53:23+00,,6495080.88963889,1839659.30455373
+-118.209729056834,34.0437589669969,61196,Metropolitan Transportation Authority (MTA),80000094,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Soto Metro Station,,,Los Angeles,,,,,,,,63072,Gold Line,,http://egis3.lacounty.gov/lms/?p=63072,publish,34.043759,-118.209729,2011/05/03 18:53:23+00,,6498134.47113013,1838371.41638148
+-118.192319056405,34.0333079671918,61197,Metropolitan Transportation Authority (MTA),80000095,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Indiana Metro Station,,,Los Angeles,,,,,,,,63073,Gold Line,,http://egis3.lacounty.gov/lms/?p=63073,publish,34.033308,-118.192319,2011/05/03 18:53:23+00,,6503401.41925764,1834557.55097772
+-118.37751930665,34.1688089666318,61455,Metropolitan Transportation Authority (MTA),,Transportation,Metro Stations,,,North Hollywood Metro Station,5373 N. Lankershim Blvd,,Los Angeles,CA,"6:30am - 7pm (Monday - Friday)    
+8:00am - 4:30pm (Saturday/Sunday)",323.GO.METRO (323.466.3876),,http://www.metro.net/around/rail/orange-line/,,,65188,"<strong>Orange Line</strong>
+
+Chandler Blvd. / Lankershim Blvd.
+
+<em>951 Park/Ride Lot Spaces </em>
+
+<em></em><em>8 Lockers/4 Racks</em>",91601,http://egis3.lacounty.gov/lms/?p=65188,publish,34.168809,-118.37751925,2011/10/28 10:02:04+00,,6447474.75059938,1884027.61443898
+-118.397035056392,34.1685648566106,61456,Metropolitan Transportation Authority (MTA),,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Laurel Canyon Metro Station,5371 Laurel Canyon Blvd,,Los Angeles,CA,"6:30am - 7pm (Monday - Friday)    
+8:00am - 4:30pm (Saturday/Sunday)",323.GO.METRO (323.466.3876),,http://www.metro.net/around/rail/orange-line/,,,65190,"<strong>Orange Line</strong>
+
+<em>8 Lockers/4 Racks</em>",91607,http://egis3.lacounty.gov/lms/?p=65190,publish,34.16856489,-118.397035,2012/03/22 17:18:10+00,,6441571.12198672,1883961.52336381
+-118.422081526123,34.1717649267311,61457,Metropolitan Transportation Authority (MTA),,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Valley College Metro Station,13240 W. Burbank Blvd.,,Los Angeles,CA,"Bus & Rail Transit Information: 323.GO.METRO (323.466.3876)
+6:30am - 7pm (Monday - Friday)    
+8:00am - 4:30pm (Saturday/Sunday)",,,http://www.metro.net/around/rail/orange-line/,,,65193,"<strong>Orange Line</strong>
+Fulton Ave. / Burbank Blvd
+<em>8 Lockers/4 Racks</em>",91401,http://egis3.lacounty.gov/lms/?p=65193,publish,34.17176496,-118.42208147,2011/10/24 23:27:22+00,,6433999.74310064,1885156.94616981
+-118.429704365922,34.1789857163155,61458,Metropolitan Transportation Authority (MTA),,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Woodman Metro Station,13622 W. Oxnard St,,Los Angeles,CA,"6:30am - 7pm (Monday - Friday)    
+8:00am - 4:30pm (Saturday/Sunday)",323.GO.METRO (323.466.3876),,http://www.metro.net/around/rail/orange-line/,,,65197,"<strong>Orange Line</strong>
+Oxnard St. / Buffalo Ave.
+<em>8 Lockers/4 Racks</em>",91401,http://egis3.lacounty.gov/lms/?p=65197,publish,34.17898575,-118.42970431,2011/10/24 23:27:19+00,,6431705.24506497,1887794.46779764
+-118.448136506236,34.1804590865548,61459,Metropolitan Transportation Authority (MTA),,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Van Nuys Metro Station,6060 Van Nuys Blvd,,Los Angeles,CA,"6:30am - 7pm (Monday - Friday)    
+8:00am - 4:30pm (Saturday/Sunday)",323.GO.METRO (323.466.3876),,http://www.metro.net/around/rail/orange-line/,,,65201,"<strong>Orange Line</strong>
+Van Nuys Blvd. / Aetna St.
+<em>776 Park/Ride Lot Spaces </em>
+<em>8 Lockers/4 Racks</em>",91411,http://egis3.lacounty.gov/lms/?p=65201,publish,34.18045912,-118.44813645,2011/10/24 23:27:16+00,,6426132.82740405,1888354.99161097
+-118.468750176533,34.1808459162131,61460,Metropolitan Transportation Authority (MTA),,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Sepulveda Metro Station,15430 W. Erwin St,,Los Angeles,CA,"6:30am - 7pm (Monday - Friday)    
+8:00am - 4:30pm (Saturday/Sunday)",323.GO.METRO (323.466.3876),,http://www.metro.net/around/rail/orange-line/,,,65205,"<strong>Orange Line</strong>
+Sepulveda Blvd. / Erwin St.
+<em>1,205 Park/Ride Lot Spaces </em>
+<em>8 Lockers/4 Racks</em>",91411,http://egis3.lacounty.gov/lms/?p=65205,publish,34.18084595,-118.46875012,2011/10/24 23:27:12+00,,6419898.9865253,1888524.19894972
+-118.484142475809,34.1863123866508,61461,Metropolitan Transportation Authority (MTA),,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Woodley Metro Station,6381 N. Woodley Ave.,,Los Angeles,CA,"6:30am - 7pm (Monday - Friday)    
+8:00am - 4:30pm (Saturday/Sunday)",323.GO.METRO (323.466.3876),,http://www.metro.net/around/rail/orange-line/,,,65207,"<strong>Orange Line</strong>
+Woodley Ave. / Victory Blvd.
+<em>16 Lockers/4 Racks</em>",91406,http://egis3.lacounty.gov/lms/?p=65207,publish,34.18631242,-118.48414242,2011/10/24 23:27:10+00,,6415253.27271964,1890535.5892839
+-118.500571905914,34.1859980666273,61462,Metropolitan Transportation Authority (MTA),,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Balboa Metro Station,Balboa Blvd & Victory Blvd,,Los Angeles,CA,"6:30am - 7pm (Monday - Friday)    
+8:00am - 4:30pm (Saturday/Sunday)",323.GO.METRO (323.466.3876),,http://www.metro.net/around/rail/orange-line/,,,65209,"<strong>Orange Line</strong>
+Balboa Blvd. / Victory Blvd.
+<em>270 Park/Ride Lot Spaces </em>
+<em>20 Lockers/16 Racks</em>",91316,http://egis3.lacounty.gov/lms/?p=65209,publish,34.1859981,-118.50057185,2011/10/24 23:27:06+00,,6410284.06349798,1890445.54156373
+-118.5364884655,34.1804502161409,61463,Metropolitan Transportation Authority (MTA),,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Reseda Metro Station,6065 N. Reseda Blvd,,Los Angeles,CA,"6:30am - 7pm (Monday - Friday)    
+8:00am - 4:30pm (Saturday/Sunday)",323.GO.METRO (323.466.3876),,http://www.metro.net/around/rail/orange-line/,,,65210,"<strong>Orange Line</strong>
+Reseda Blvd. / Oxnard St.
+<em>522 Park/Ride Lot Spaces </em>
+<em>16 Lockers/3 Racks</em>",91335,http://egis3.lacounty.gov/lms/?p=65210,publish,34.18045025,-118.53648841,2011/10/24 23:27:03+00,,6399411.26306513,1888482.64030582
+-118.553080615905,34.181049316744,61464,Metropolitan Transportation Authority (MTA),,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Tampa Metro Station,6101 Tampa Ave,,Los Angeles,CA,"6:30am - 7pm (Monday - Friday)    
+8:00am - 4:30pm (Saturday/Sunday)",323.GO.METRO (323.466.3876),,http://www.metro.net/around/rail/orange-line/,,,65211,"<strong>Orange Line</strong>
+Tampa Ave. / Topham St.
+<em>8 Lockers/6 Racks</em>",91335,http://egis3.lacounty.gov/lms/?p=65211,publish,34.18104935,-118.55308056,2011/10/24 23:27:00+00,,6394394.27408339,1888727.85831931
+-118.570552525629,34.1869558262599,61465,Metropolitan Transportation Authority (MTA),,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Pierce College Metro Station,6425 Winnetka Ave,,Los Angeles,CA,"6:30am - 7pm (Monday - Friday)    
+8:00am - 4:30pm (Saturday/Sunday)",323.GO.METRO (323.466.3876),,http://www.metro.net/around/rail/orange-line/,,,65212,"<strong>Orange Line</strong>
+Winnetka Ave. / Friar St.
+<em>373 Park/Ride Lot Spaces </em>
+<em>8 Lockers/6 Racks</em>",91367,http://egis3.lacounty.gov/lms/?p=65212,publish,34.18695586,-118.57055247,2012/03/26 10:26:16+00,,6389122.25149097,1890906.8444469
+-118.588694986013,34.1887130560915,61466,Metropolitan Transportation Authority (MTA),,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),De Soto Metro Station,20901 Victory Blvd,,Los Angeles,CA,"6:30am - 7pm (Monday - Friday)    
+8:00am - 4:30pm (Saturday/Sunday)",323.GO.METRO (323.466.3876),,http://www.metro.net/around/rail/orange-line/,,,65213,"<strong>Orange Line</strong>
+De Soto Ave. / Victory Blvd.
+<em>8 Lockers/6 Racks</em>",91367,http://egis3.lacounty.gov/lms/?p=65213,publish,34.18871309,-118.58869493,2011/10/24 23:26:53+00,,6383639.36481898,1891577.95957448
+-118.596881085378,34.1905634368142,61467,Metropolitan Transportation Authority (MTA),,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Canoga Metro Station,6610 Canoga Ave,,Los Angeles,CA,"6:30am - 7pm (Monday - Friday)    
+8:00am - 4:30pm (Saturday/Sunday)",323.GO.METRO (323.466.3876),,http://www.metro.net/around/rail/orange-line/,,,65214,"<strong>Orange Line</strong>
+<em>612 Park/Ride Lot Spaces </em>
+<em>8 Lockers/6 Racks</em>",91303,http://egis3.lacounty.gov/lms/?p=65214,publish,34.19056347,-118.59688103,2011/10/24 23:26:50+00,,6381167.78216372,1892265.93424839
+-118.601403295317,34.1815419167835,61468,Metropolitan Transportation Authority (MTA),,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Warner Center Metro Station,6101 1/2 Owensmouth Ave,,Los Angeles,CA,"6:30am - 7pm (Monday - Friday)    
+8:00am - 4:30pm (Saturday/Sunday)",323.GO.METRO (323.466.3876),,http://www.metro.net/around/rail/orange-line/,,,65215,"<strong>Orange Line</strong>
+Owensmouth Ave. / Promenade Mall Drive
+6101 1/2 Owensmouth Ave., Canoga Park, CA 91367",91367,http://egis3.lacounty.gov/lms/?p=65215,publish,34.18154195,-118.60140324,2011/10/24 23:26:47+00,,6379780.59596172,1888991.05005014
+-118.355120175762,34.024800846698,61775,Metropolitan Transportation Authority (MTA),,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Expo/La Brea Metro Station,5060 Exposition Blvd,,Los Angeles,CA,,,,http://www.metro.net/projects/exposition/,,,67738,Expo line,90016,http://egis3.lacounty.gov/lms/?p=67738,publish,34.02480088,-118.35512012,2012/05/03 13:24:11+00,,6454065.07272056,1831595.97684839
+-118.371959085947,34.0263391570039,61776,Metropolitan Transportation Authority (MTA),,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),La Cienega/Jefferson Metro Station,5664 W. Jefferson Blvd,,Los Angeles,CA,,,,http://www.metro.net/projects/exposition/,,,67739,Expo line,90016,http://egis3.lacounty.gov/lms/?p=67739,publish,34.02633919,-118.37195903,2013/03/20 15:33:22+00,,6448964.79420722,1832174.24832964
+-118.273556886425,34.0291844971719,61777,Metropolitan Transportation Authority (MTA),,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),LATTC/Ortho Institute Metro Station,2460 S. Flower Street,,Los Angeles,CA,,,,,,,67740,Expo line,90007,http://egis3.lacounty.gov/lms/?p=67740,publish,34.02918453,-118.27355683,2012/05/03 13:17:04+00,,6478783.90746914,1833113.98201448
+-118.278135416598,34.0221621069114,61778,Metropolitan Transportation Authority (MTA),,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Jefferson/USC Metro Station,3214 S. Flower Street,Suite 188,Los Angeles,CA,,,,http://www.metro.net/projects/exposition/,,,67741,Expo line,90007,http://egis3.lacounty.gov/lms/?p=67741,publish,34.02216214,-118.27813536,2012/05/03 13:16:55+00,,6477389.56675389,1830562.21087131
+-118.285667056507,34.0182338467548,61779,Metropolitan Transportation Authority (MTA),,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Expo Park/USC Metro Station,661 Exposition Blvd,,Los Angeles,CA,,,,http://www.metro.net/projects/exposition/,,,67742,Expo line,90007,http://egis3.lacounty.gov/lms/?p=67742,publish,34.01823388,-118.285667,2012/05/03 13:16:51+00,,6475103.26752073,1829139.04442631
+-118.291998285896,34.0182962971882,61780,Metropolitan Transportation Authority (MTA),,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Expo/Vermont Metro Station,1043 Exposition Blvd,,Los Angeles,CA,,,,http://www.metro.net/projects/exposition/,,,67743,Expo line,90007,http://egis3.lacounty.gov/lms/?p=67743,publish,34.01829633,-118.29199823,2012/05/03 13:16:37+00,,6473184.75560972,1829167.28419922
+-118.309570666655,34.0183753165574,61781,Metropolitan Transportation Authority (MTA),,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Expo/Western Metro Station,1573 Exposition Blvd,,Los Angeles,CA,,,,http://www.metro.net/projects/exposition/,,,67744,Expo line,90018,http://egis3.lacounty.gov/lms/?p=67744,publish,34.01837535,-118.30957061,2012/05/03 13:16:29+00,,6467859.82072155,1829211.97505473
+-118.334838535791,34.0225299164718,61782,Metropolitan Transportation Authority (MTA),,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Expo/Crenshaw Metro Station,3428 Exposition Blvd,,Los Angeles,CA,,,,http://www.metro.net/projects/exposition/,,,67745,Expo line,90018,http://egis3.lacounty.gov/lms/?p=67745,publish,34.02252995,-118.33483848,2012/05/03 13:16:06+00,,6460207.85374205,1830748.45295289
+-118.345732206003,34.0239605465581,61783,Metropolitan Transportation Authority (MTA),,Transportation,Metro Stations,,Metropolitan Transit Authority (MTA),Farmdale Metro Station,4420 Exposition Blvd,,Los Angeles,CA,,,,http://www.metro.net/projects/exposition/,,,67746,Expo line,90016,http://egis3.lacounty.gov/lms/?p=67746,publish,34.02396058,-118.34573215,2012/05/03 13:16:21+00,,6456908.6664428,1831280.25963207
