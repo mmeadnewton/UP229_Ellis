@@ -1,0 +1,46 @@
+,count,mean,std,,,,,"Fig 3. Descriptive Statistics, Property Characteristics and 2015-2019 Neighborhood Characteristics, OLS Regression",,,,,"Fig 4. Descriptive Statistics, Property Characteristics and 2010-2014 to 2015-2019 Neighborhood Changes, OLS Regression",,,
+units_total,926,3.585313175,4.450661689,,,,,Variables,N,Mean,Std.,,Variables,N,Mean,Std.
+sqft_total,926,3253.403888,3693.684846,,,,,Units,926,3.59,4.45,,Units,926,3.59,4.45
+yearbuilt_avg,926,1933.896328,21.48925684,,,,,Square Feet,926,3253.40,3693.68,,Square Feet,926,3253.40,3693.68
+median_income_2019,926,63571.08207,27567.6944,,,,,Year Built,926,1933.90,21.49,,Year Built,926,1933.90,21.49
+median_rent_2019,926,1520.487041,416.8809479,,,,,Median Income 2015-2019,926,63571.08,27567.69,,Change Rents 2010-2014 to 2015-2019,926,275.53,172.68
+median_value_2019,926,795156.6938,357255.029,,,,,Median Rent 2015-2019,926,1520.49,416.88,,Change Values 2010-2014 to 2015-2019,926,253346.69,191361.00
+part_black_2019,926,8.340742337,10.07510979,,,,,Median Value 2015-2019,926,795156.69,357255.03,,Change % Units Rented 2010-2014 to 2015-2019,926,-0.59,5.68
+part_latx_2019,926,43.95101053,27.02124897,,,,,% Black Residents 2015-2019,926,8.34,10.08,,Change % White 2010-2014 to 2015-2019,926,1.17,5.56
+part_white_2019,926,32.31303502,26.68701028,,,,,% Latinx Residents 2015-2019,926,43.95,27.02,,Change % Black 2010-2014 to 2015-2019,926,-0.58,4.23
+part_female_head_2019,926,19.27170344,5.361698256,,,,,% White Residents 2015-2019,926,32.31,26.69,,Change % Latinx 2010-2014 to 2015-2019,926,-1.34,6.89
+part_hh_kids_2019,926,25.96651985,13.25499734,,,,,% Houshokds Female Head 2015-2019,926,19.27,5.36,,Change % With College 2010-2014 to 2015-2019,926,-1.34,5.66
+part_rented_2019,926,74.67380835,17.31164955,,,,,% Households with Kids 2015-2019,926,25.97,13.25,,Change % Unemployed 2010-2014 to 2015-2019,926,-5.38,4.58
+part_unemployed_2019,926,6.310692995,3.027293133,,,,,% Units Rented 2015-2019,926,74.67,17.31,,Change % with Kids 2010-2014 to 2015-2019,926,-4.00,7.07
+part_poverty_2019,926,27.7750305,16.68378802,,,,,% Unemployed 2015-2019,926,6.31,3.03,,Change % Female Head 2010-2014 to 2015-2019,926,7.18,5.70
+part_vacant_2019,926,8.642794853,4.645867843,,,,,% Residents In Poverty 2015-2019,926,27.78,16.68,,Change % In Poverty 2010-2014 to 2015-2019,926,-7.39,11.11
+part_college_2019,926,21.02967725,9.246822384,,,,,% Units Vacant 2015-2019,926,8.64,4.65,,Change % Units Vacant 2010-2014 to 2015-2019,926,1.53,5.27
+median_income_2014,926,50762.81533,23625.4858,,,,,% Residents College Educated,926,21.03,9.25,,Dist. to High Rent Tract (Meters),926,1261.23,1415.45
+median_rent_2014,926,1244.960043,314.9812033,,,,,Dist. to High Rent Tract (Meters),926,1261.23,1415.45,,Dist. to High Rent Growth Tract (Meters),926,546.07,671.75
+median_value_2014,926,541810.0038,231162.9918,,,,,Dist. to High Rent Growth Tract (Meters),926,546.07,671.75,,% Properties Built 2015-2019,926,1.60,2.17
+part_black_2014,926,8.923984509,11.6359416,,,,,% Properties Built 2015-2019,926,1.60,2.17,,% Properties Sold 2015-2019,926,21.88,4.71
+part_latx_2014,926,45.28639184,26.96812647,,,,,% Properties Sold 2015-2019,926,21.88,4.71,,,,,
+part_white_2014,926,31.1440723,27.42536761,,,,,,,,,,,,,
+part_female_head_2014,926,12.0921175,3.401118133,,,,,,,,,,,,,
+part_hh_kids_2014,926,29.96687676,14.64845366,,,,,,,,,,,,,
+part_rented_2014,926,75.25998467,16.9412054,,,,,,,,,,,,,
+part_unemployed_2014,926,11.69408454,4.368550341,,,,,,,,,,,,,
+part_poverty_2014,926,35.16370281,19.08163002,,,,,,,,,,,,,
+part_vacant_2014,926,7.112977872,3.916783832,,,,,,,,,,,,,
+part_college_2014,926,22.36810797,9.29043871,,,,,,,,,,,,,
+change_rent_14_19,926,275.5269978,172.6751952,,,,,,,,,,,,,
+change_value_14_19,926,253346.69,191360.9962,,,,,,,,,,,,,
+change_part_rented_14_19,926,-0.586176322,5.676860746,,,,,,,,,,,,,
+change_part_white_14_19,926,1.168962719,5.555305116,,,,,,,,,,,,,
+change_part_black_14_19,926,-0.583242173,4.231223249,,,,,,,,,,,,,
+change_part_latx_14_19,926,-1.33538131,6.889763249,,,,,,,,,,,,,
+change_part_college_14_19,926,-1.338430721,5.656739313,,,,,,,,,,,,,
+change_part_unemployed_14_19,926,-5.383391544,4.580440255,,,,,,,,,,,,,
+change_part_hh_kids_14_19,926,-4.000356916,7.073937465,,,,,,,,,,,,,
+change_part_female_head_14_19,926,7.179585944,5.703941796,,,,,,,,,,,,,
+change_part_poverty_14_19,926,-7.388672304,11.11192495,,,,,,,,,,,,,
+change_part_vacant_14_19,926,1.529816981,5.270686728,,,,,,,,,,,,,
+dist_to_nearest_highrenttract,926,1261.232165,1415.453478,,,,,,,,,,,,,
+dist_to_nearest_highchangetract,926,546.0707906,671.7506506,,,,,,,,,,,,,
+pctbuilt,926,1.60477318,2.173363751,,,,,,,,,,,,,
+pctsold,926,21.87822136,4.713465534,,,,,,,,,,,,,
